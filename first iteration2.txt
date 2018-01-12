@@ -1,0 +1,2 @@
+first line of command
+m dc cz
